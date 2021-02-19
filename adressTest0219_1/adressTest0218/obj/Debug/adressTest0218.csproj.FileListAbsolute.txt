@@ -1,0 +1,14 @@
+D:\DG\c_study\210218\adressTest0218\adressTest0218\bin\Debug\adressTest0218.exe.config
+D:\DG\c_study\210218\adressTest0218\adressTest0218\bin\Debug\adressTest0218.exe
+D:\DG\c_study\210218\adressTest0218\adressTest0218\bin\Debug\adressTest0218.pdb
+D:\DG\c_study\210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.csprojAssemblyReference.cache
+D:\DG\c_study\210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.csproj.CoreCompileInputs.cache
+D:\DG\c_study\210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.exe
+D:\DG\c_study\210218\adressTest0218\adressTest0218\obj\Debug\adressTest0218.pdb
+D:\suyin\20210219\adressTest0219_1\adressTest0218\obj\Debug\adressTest0218.csprojAssemblyReference.cache
+D:\suyin\20210219\adressTest0219_1\adressTest0218\obj\Debug\adressTest0218.csproj.CoreCompileInputs.cache
+D:\suyin\20210219\adressTest0219_1\adressTest0218\obj\Debug\adressTest0218.exe
+D:\suyin\20210219\adressTest0219_1\adressTest0218\obj\Debug\adressTest0218.pdb
+D:\suyin\20210219\adressTest0219_1\adressTest0218\bin\Debug\adressTest0218.exe.config
+D:\suyin\20210219\adressTest0219_1\adressTest0218\bin\Debug\adressTest0218.exe
+D:\suyin\20210219\adressTest0219_1\adressTest0218\bin\Debug\adressTest0218.pdb
